@@ -1,0 +1,23 @@
+<table border="">
+				<tbody><tr></tr>
+				<tr>
+					<td>Name of Referees</td>
+					<td>Institute/ Organization</td>
+					<td>Designation/Contact number</td>
+				</tr>
+				<tr>
+					<td>1.Ganesh Silwal</td>
+					<td>Academia International College (AIC), Gwarko, Kathmandu, Nepal</td>
+					<td>Coordinator, (9858421244)</td>
+				</tr>
+				<tr>
+					<td>2.JD Bhatta</td>
+					<td>National Academy Of Science and Technology (NAST) , Dhangadhi, Kailali, Nepal</td>
+					<td>Coordinator, (9848432478)</td>
+				</tr>
+			<tr>
+					<td>3. Sajan Kafle</td>
+					<td>Broadway Computer Training Institute, Tinkune, Kathmandu, Nepal</td>
+					<td>Web Designing Trainer, (9811635535)</td>
+				</tr>
+			</tbody></table>

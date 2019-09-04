@@ -1,0 +1,43 @@
+
+*
+{
+	margin:5px;
+	padding:10px;
+}
+body
+{
+	background:#A5A5A5;
+	font-family:
+}
+.page
+{
+	width:900px;
+	height:auto;
+	background:#FFF; 
+	margin:auto;
+}
+
+
+header
+{
+	height:140px;
+}
+
+.contact
+{
+	float:left;
+	text-align:left;
+
+}
+.logo
+{
+	float:right;
+	text-align:right;
+
+
+
+
+.slier
+{
+	height:auto;
+}
